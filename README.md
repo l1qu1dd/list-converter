@@ -4,8 +4,8 @@
 
 | Сборка | Скачать | Что понадобится |
 | --- | --- | --- |
-| Windows 10 и 11 (x64) | **[Скачать ZIP · v0.1.0-beta.2](https://github.com/l1qu1dd/list-converter/releases/download/v0.1.0-beta.2/list-windows-x64-v0.1.0-beta.2.zip)** · около 1 ГБ | Microsoft Edge или Google Chrome. Движки уже в ZIP. |
-| macOS | **[Тестовая сборка](https://github.com/l1qu1dd/list-converter/releases/tag/v0.1.0-macos-preview.1)** | Homebrew. Запуск на Mac ещё предстоит проверить. |
+| Windows 10 и 11 (x64) | **[Скачать ZIP · v0.1.0-beta.3](https://github.com/l1qu1dd/list-converter/releases/download/v0.1.0-beta.3/list-windows-x64-v0.1.0-beta.3.zip)** · около 1 ГБ | Microsoft Edge или Google Chrome. Движки уже в ZIP. |
+| macOS | **[Тестовая сборка](https://github.com/l1qu1dd/list-converter/releases/tag/v0.1.0-macos-preview.2)** | Homebrew. Запуск на Mac ещё предстоит проверить. |
 
 [Все выпуски и контрольные суммы](https://github.com/l1qu1dd/list-converter/releases)
 
@@ -40,7 +40,7 @@ Node.js, FFmpeg и LM Studio отдельно устанавливать не н
 
 **Сохранится ли вёрстка PDF в EPUB?** Выберите режим сохранения страниц, если важен внешний вид. Для чтения на маленьком экране можно выбрать подстраиваемый текст и проверить в результате таблицы, формулы и порядок чтения.
 
-**Почему YouTube может не скачиваться?** Требуется интернет. В зависимости от ролика и подключения YouTube может запросить вход или вернуть сетевую ошибку. Это ограничение относится к скачиванию по ссылке.
+**Почему YouTube может не скачиваться?** YouTube может запросить вход или вернуть сетевую ошибку в зависимости от ролика и маршрута. Раскройте «Подключение», чтобы выбрать режим. «Лист» запомнит выбор. В Windows можно отдельно выбрать «Через Wi‑Fi / Ethernet (мимо VPN)».
 
 ## Как сообщить об ошибке
 
