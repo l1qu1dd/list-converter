@@ -5,7 +5,7 @@
 | Сборка | Скачать | Что понадобится |
 | --- | --- | --- |
 | Windows 10 и 11 (x64) | **[Скачать ZIP · v0.1.0-beta.3](https://github.com/l1qu1dd/list-converter/releases/download/v0.1.0-beta.3/list-windows-x64-v0.1.0-beta.3.zip)** · около 1 ГБ | Microsoft Edge или Google Chrome. Движки уже в ZIP. |
-| macOS | **[Тестовая сборка](https://github.com/l1qu1dd/list-converter/releases/tag/v0.1.0-macos-preview.2)** | Homebrew. Проверено на одном Mac. |
+| macOS | **[Тестовая сборка](https://github.com/l1qu1dd/list-converter/releases/tag/v0.1.0-macos-preview.3)** | Homebrew. Проверено на одном Mac. |
 
 [Все выпуски и контрольные суммы](https://github.com/l1qu1dd/list-converter/releases)
 
@@ -32,7 +32,7 @@ Node.js, FFmpeg и LM Studio отдельно устанавливать не н
 
 ### macOS
 
-Распакуйте тестовый ZIP и откройте `README-macOS.md`. Там перечислены компоненты для установки через Homebrew и шаги запуска `Запустить.command`.
+В инструкции описано, как скачать и запустить «Лист», сохранить видео и удалить установленные компоненты. Её копия есть в ZIP в файле `README-macOS.md`. [Инструкция для Mac](docs/macos.md).
 
 На одном Mac успешно проверили запуск, DOCX → PDF, PDF → EPUB, MP4 → MP3 и скачивание видео по ссылке YouTube с настройками подключения по умолчанию.
 
